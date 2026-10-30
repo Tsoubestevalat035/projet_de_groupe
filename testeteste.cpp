@@ -3,7 +3,12 @@
 #include "Ennemies.h"
 #include "Entities.h"
 
+#include "Zombie.h"
+
+Zombie victor;
+
+
 int main()
 {
-	//ghjxfgjfjfxjcggnjfgj
+	std::cout << "la vide de victor : " ;
 }

@@ -125,13 +125,17 @@
   <ItemGroup>
     <ClCompile Include="Ennemies.cpp" />
     <ClCompile Include="Entities.cpp" />
+    <ClCompile Include="HeadlessZombie.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="testeteste.cpp" />
+    <ClCompile Include="Zombie.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ennemies.h" />
     <ClInclude Include="Entities.h" />
+    <ClInclude Include="HeadlessZombie.h" />
     <ClInclude Include="Player.h" />
+    <ClInclude Include="Zombie.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="testeteste.rc" />
